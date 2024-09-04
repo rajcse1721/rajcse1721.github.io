@@ -1,9 +1,9 @@
 ---
 title: Do you really need a Vector Database?
-date: 2023-11-21 22:50 +0200
+date: 2024-09-04 22:50 +0200
 categories: [LLMs, GenAI, VectorDBs, Embeddings]
 tags: [llms, genai, vectordbs, embeddings]
-author: tremo
+author: raj
 ---
 
 ## Do You Really Need a VectorDB?
