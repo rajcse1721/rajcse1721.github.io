@@ -2,6 +2,8 @@
 
 - type: github
   icon: "fab fa-github"
+  url:  'https://github.com/rajcse1721'                  # Fill with your Linkedin homepage
+  noblank: true
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
