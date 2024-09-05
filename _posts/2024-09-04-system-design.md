@@ -3,7 +3,6 @@ title: what is the System Design
 date: 2024-09-04 23:23 +0200
 categories: [Blogging, System Design , Java Programming]
 tags: [java, blog, programming, interview,technical]
-author: Rajesh Singh
 ---
 
 # Introduction 

@@ -3,7 +3,6 @@ title: What is Java?
 date: 2024-09-04 20:14 +0300
 categories: [Blogging, Tutorial,Java_Interview]
 tags: [java, blog, programming, blog, interview,technical]
-author: Rajesh Singh
 ---
 
 # Introduction to Java
