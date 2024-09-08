@@ -1,7 +1,7 @@
 ---
 title: GitHub Tutorial
 date: 2024-09-05 20:14 +0300
-categories: [Blogging, Tutorial,GitHub]
+categories: [Blogging, Tutorial, GitHub]
 tags: [java, blog, programming, blog, interview,technical,git, github]
 ---
 
@@ -39,4 +39,5 @@ According to a Stack Overflow developer survey, over 87% of developers use Git.
 GitHub users create accounts, upload files, and create coding projects. But the real work of GitHub happens when users begin to collaborate.
 
 While anyone can code independently, teams of people build most development projects. Sometimes these teams are all in one place at once time, but more often they work asynchronously. There are many challenges to creating collaborative projects with distributed teams. GitHub makes this process much simpler in a few different ways.
+
 
