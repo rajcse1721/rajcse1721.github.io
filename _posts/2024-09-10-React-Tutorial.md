@@ -3,7 +3,6 @@ title: React Tutorial
 date: 2024-09-10 23:23 +0200
 categories: [Blogging, React Tutorial ]
 tags: [react, blog, programming, interview,technical,frontend]
-author: <Raj>
 ---
 
 # What is react?
