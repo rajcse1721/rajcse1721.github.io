@@ -1,7 +1,7 @@
 ---
 title: React Tutorial
 date: 2024-09-10 23:23 +0200
-categories: [Blogging, React Tutorial ]
+categories: [Blogging, React Tutorial , Java Programming]
 tags: [react, blog, programming, interview,technical,frontend]
 ---
 
@@ -143,6 +143,8 @@ export default function MyComponent() {
   return <button onClick={handleClick}>Click me</button>;
 }
 ```
+
+will continue...
 
 
 
